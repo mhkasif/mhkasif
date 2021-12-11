@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Haseeb(MHK Asif) </h1>
+<h1 align="center">Hi 👋, I'm Haseeb(MHKASIF) </h1>
 <h3 align="center">Passionate Developer, Photographer,and Teacher</h3>
 
 - 🔭 Working as a MERN **Developer, solutions architect & Thinker**!
