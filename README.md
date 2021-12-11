@@ -29,12 +29,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **mhkasif97@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
-<div align="center">
-
+<div align="center" >
+<a href="https://mhkasif.github.io" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/mhkasif/mhkasif/main/laugh.png" alt="MHK ASIF" height="100"  /> 
+</a>
+  
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhkasif97/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mhkasif)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhkasif97@gmail.com)
-[![image](https://raw.githubusercontent.com/mhkasif/mhkasif/main/laugh.png)](https://mhkasif.github.io)
   
   
 </div>
@@ -42,20 +44,18 @@ Here are some ideas to get you started:
 <h3 align="center">Languages :</h3>
 
 <p align="center">  
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/facebook/react/main/packages/react-devtools/icons/icon128.png" alt="Reactjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://mui.com/" target="_blank"> 
+  <a href="https://mui.com/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/mui-org/material-ui/master/docs/public/static/logo.png" alt="material-ui" width="40" height="40"/> 
   </a> 
 
-  <a href="https://nodejs.org/en/" target="_blank"> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noopener"> 
     <img src="https://nodejs.org/static/images/logo-light.svg" alt="Nodejs" width="40" height="40"/> 
   </a> 
-  <a href="https://ethereum.org/en/developers/docs/" target="_blank"> 
+  <a href="https://ethereum.org/en/developers/docs/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/ethereum/ethereum-org/master/dist/images/logos/ETHEREUM-ICON_Black.png" alt="ethereum" width="40" height="40"/> 
   </a>  
 </p>
